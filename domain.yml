@@ -173,5 +173,5 @@ forms:
     required_slots:
       - vital_sign
 
-#config:
-#  store_entities_as_slots: false
+config:
+  store_entities_as_slots: false
